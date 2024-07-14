@@ -1,16 +1,13 @@
-# my_tflit_app
+# Hand Clash (Rock-Paper-Scissors Game)
 
-A new Flutter project.
+## Overview
+The "Hand Clash" application is a mobile game of rock-paper-scissors, where users can take a photo of their own hand or select a hand photo from the gallery to compete against the computer. This mobile game utilizes machine learning concepts by creating and training a classification model to detect and classify user-input hand photos.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone/download this project
+2. Install Codeblocks
+3. Add GLUT Opengl to your environment
+4. Open The Project on Codeblocks
+5. Run the project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
