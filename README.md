@@ -1,7 +1,7 @@
 # Hand Clash (Rock-Paper-Scissors Game)
 
 ## Overview
-See More Of My Project: https://drive.google.com/drive/u/0/folders/1eK-Qjee9N_1Kk6lJ3-XXigN1crcgru_G
+See More Of My Project (Portfolio): https://drive.google.com/drive/u/0/folders/1eK-Qjee9N_1Kk6lJ3-XXigN1crcgru_G
 
 The "Hand Clash" application is a mobile game of rock-paper-scissors, where users can take a photo of their own hand or select a hand photo from the gallery to compete against the computer. This mobile game utilizes machine learning concepts by creating and training a classification model to detect and classify user-input hand photos.
 
